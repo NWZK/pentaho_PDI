@@ -526,6 +526,10 @@
         <item>Jack</item>
         <item>The Reaper</item>
       </line>
+      <line>
+        <item>John</item>
+        <item>Reaper</item>
+      </line>
     </data>
     <cluster_schema />
     <remotesteps>
